@@ -1,0 +1,33 @@
+ /c/dev/nbis/imgtools/obj/src/lib/image/imageops.o /c/dev/nbis/imgtools/obj/src/lib/image/imageops.d: imageops.c \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/stdio.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_mac.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/vadefs.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_print_push.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_off_t.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ c:/dev/nbis/exports/include/defs.h \
+ c:/dev/nbis/imgtools/include/imgutil.h \
+ c:/dev/nbis/exports/include/memalloc.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/string.h \
+ c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sec_api/string_s.h
+imageops.c :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/stdio.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_mac.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/vadefs.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sdks/_mingw_directx.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sdks/_mingw_ddk.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_print_push.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_off_t.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sec_api/stdio_s.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/_mingw_print_pop.h :
+/dev/nbis/exports/include/defs.h :
+/dev/nbis/imgtools/include/imgutil.h :
+/dev/nbis/exports/include/memalloc.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/string.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/sec_api/string_s.h :
+\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w :

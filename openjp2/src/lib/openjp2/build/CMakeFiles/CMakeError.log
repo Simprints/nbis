@@ -1,0 +1,145 @@
+Determining if files zlib.h exist failed with the following output:
+Change Dir: C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys/bin/make.exe cmTC_babd8/fast && make[3]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+/usr/bin/make  -f CMakeFiles/cmTC_babd8.dir/build.make CMakeFiles/cmTC_babd8.dir/build
+make[4]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_babd8.dir/HAVE_ZLIB_H.c.obj
+/C/mingw64/bin/gcc.exe   -m64 -O2 -w    -o CMakeFiles/cmTC_babd8.dir/HAVE_ZLIB_H.c.obj   -c /C/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_ZLIB_H.c
+c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_ZLIB_H.c:2:18: fatal error: zlib.h: No such file or directory
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_babd8.dir/HAVE_ZLIB_H.c.obj] Error 1
+make[4]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+make[3]: *** [cmTC_babd8/fast] Error 2
+make[3]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+
+
+Source:
+/* */
+#include <zlib.h>
+
+
+int main(void){return 0;}
+
+Determining if files jpeglib.h exist failed with the following output:
+Change Dir: C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys/bin/make.exe cmTC_667d7/fast && make[3]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+/usr/bin/make  -f CMakeFiles/cmTC_667d7.dir/build.make CMakeFiles/cmTC_667d7.dir/build
+make[4]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_667d7.dir/HAVE_JPEGLIB_H.c.obj
+/C/mingw64/bin/gcc.exe   -m64 -O2 -w    -o CMakeFiles/cmTC_667d7.dir/HAVE_JPEGLIB_H.c.obj   -c /C/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_JPEGLIB_H.c
+c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_JPEGLIB_H.c:2:21: fatal error: jpeglib.h: No such file or directory
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_667d7.dir/HAVE_JPEGLIB_H.c.obj] Error 1
+make[4]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+make[3]: *** [cmTC_667d7/fast] Error 2
+make[3]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+
+
+Source:
+/* */
+#include <jpeglib.h>
+
+
+int main(void){return 0;}
+
+Determining if files dlfcn.h exist failed with the following output:
+Change Dir: C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys/bin/make.exe cmTC_279fc/fast && make[3]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+/usr/bin/make  -f CMakeFiles/cmTC_279fc.dir/build.make CMakeFiles/cmTC_279fc.dir/build
+make[4]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_279fc.dir/HAVE_DLFCN_H.c.obj
+/C/mingw64/bin/gcc.exe   -m64 -O2 -w    -o CMakeFiles/cmTC_279fc.dir/HAVE_DLFCN_H.c.obj   -c /C/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_DLFCN_H.c
+c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_DLFCN_H.c:2:19: fatal error: dlfcn.h: No such file or directory
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_279fc.dir/HAVE_DLFCN_H.c.obj] Error 1
+make[4]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+make[3]: *** [cmTC_279fc/fast] Error 2
+make[3]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+
+
+Source:
+/* */
+#include <dlfcn.h>
+
+
+int main(void){return 0;}
+
+Determining if files ieeefp.h exist failed with the following output:
+Change Dir: C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys/bin/make.exe cmTC_e15ec/fast && make[3]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+/usr/bin/make  -f CMakeFiles/cmTC_e15ec.dir/build.make CMakeFiles/cmTC_e15ec.dir/build
+make[4]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e15ec.dir/HAVE_IEEEFP_H.c.obj
+/C/mingw64/bin/gcc.exe   -m64 -O2 -w    -o CMakeFiles/cmTC_e15ec.dir/HAVE_IEEEFP_H.c.obj   -c /C/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_IEEEFP_H.c
+In file included from c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CheckIncludeFiles/HAVE_IEEEFP_H.c:2:0:
+c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.5.2/../../../../x86_64-w64-mingw32/include/ieeefp.h:6:22: fatal error: ansidecl.h: No such file or directory
+compilation terminated.
+make[4]: *** [CMakeFiles/cmTC_e15ec.dir/HAVE_IEEEFP_H.c.obj] Error 1
+make[4]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+make[3]: *** [cmTC_e15ec/fast] Error 2
+make[3]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+
+
+Source:
+/* */
+#include <ieeefp.h>
+
+
+int main(void){return 0;}
+
+Determining if the function mmap exists failed with the following output:
+Change Dir: C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys/bin/make.exe cmTC_ab88c/fast && make[3]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+/usr/bin/make  -f CMakeFiles/cmTC_ab88c.dir/build.make CMakeFiles/cmTC_ab88c.dir/build
+make[4]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ab88c.dir/CheckFunctionExists.c.obj
+/C/mingw64/bin/gcc.exe   -m64 -O2 -w -DCHECK_FUNCTION_EXISTS=mmap   -o CMakeFiles/cmTC_ab88c.dir/CheckFunctionExists.c.obj   -c "/C/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c"
+Linking C executable cmTC_ab88c.exe
+"/C/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_ab88c.dir/objects.a
+/C/mingw64/bin/ar.exe cr CMakeFiles/cmTC_ab88c.dir/objects.a @CMakeFiles/cmTC_ab88c.dir/objects1.rsp
+/C/mingw64/bin/gcc.exe -m64 -O2 -w -DCHECK_FUNCTION_EXISTS=mmap    -Wl,--whole-archive CMakeFiles/cmTC_ab88c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_ab88c.exe -Wl,--out-implib,libcmTC_ab88c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/cmTC_ab88c.dir/linklibs.rsp
+CMakeFiles/cmTC_ab88c.dir/objects.a(CheckFunctionExists.c.obj):CheckFunctionExists.c:(.text+0x19): undefined reference to `mmap'
+collect2: ld returned 1 exit status
+make[4]: *** [cmTC_ab88c.exe] Error 1
+make[4]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+make[3]: *** [cmTC_ab88c/fast] Error 2
+make[3]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the setmod exist failed with the following output:
+Change Dir: C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/msys/bin/make.exe cmTC_83564/fast && make[3]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+/usr/bin/make  -f CMakeFiles/cmTC_83564.dir/build.make CMakeFiles/cmTC_83564.dir/build
+make[4]: Entering directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_83564.dir/CheckSymbolExists.c.obj
+/C/mingw64/bin/gcc.exe   -m64 -O2 -w    -o CMakeFiles/cmTC_83564.dir/CheckSymbolExists.c.obj   -c /C/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'setmod' undeclared (first use in this function)
+c:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+make[4]: *** [CMakeFiles/cmTC_83564.dir/CheckSymbolExists.c.obj] Error 1
+make[4]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+make[3]: *** [cmTC_83564/fast] Error 2
+make[3]: Leaving directory `/c/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp'
+
+
+File C:/dev/nbis/openjp2/src/lib/openjp2/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <io.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setmod
+  return ((int*)(&setmod))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
