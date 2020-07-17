@@ -90,6 +90,7 @@ Step 2:
  
 Step 3:
         Run the following commands to build "NBIS":
+		Run this from the msys.bat program (C:\msys\msys.bat)
         > make config
         > make it
 
