@@ -35,11 +35,8 @@ int main(int argc, char *argv[])
       id = argv[3];
       ippi = argv[4];
       ifile = argv[5];
-      std::cout << "w:" << iw << " h:" << ih << " d: " << id << " ppi: " << ippi << " ifile: " << ifile << std::endl;
    } else {
-      std::cout << "usage: .exe w h d ppi input_file\n"
-                  "e.g. .exe 300 400 8 500 fingerimage.raw\n"
-                  "output: stdout of minutiae count\n";
+      fprintf(stderr, "usage: .exe w h d ppi input_file\n e.g. .exe 300 400 8 500 fingerimage.raw\n output: stdout of minutiae count\n");
       exit(-1);
    }
 
@@ -61,8 +58,7 @@ int main(int argc, char *argv[])
    /* Done with input image data */
    free(idata);
 
-   /* 4. WRITE MINUTIAE & MAP RESULTS TO TEXT FILES */
-   std::cout << minutiae->num << std::endl;   
+   fprintf(stdout, "%d", minutiae->num);   
 
    /* Done with minutiae detection maps. */
    free(quality_map);
