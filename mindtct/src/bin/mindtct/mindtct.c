@@ -30,11 +30,13 @@ int main(int argc, char *argv[])
 
    /* Process command line arguments. */
    if(argc == 6) {
-      iw = argv[1];
-      ih = argv[2];
-      id = argv[3];
-      ippi = argv[4];
+      iw = atoi(argv[1]);
+      ih = atoi(argv[2]);
+      id = atoi(argv[3]);
+      ippi = atoi(argv[4]);
       ifile = argv[5];
+	  fprintf(stderr, "w:%d, h:%d, d:%d, ppi:%d, file:%s\n", 
+						iw, ih, id, ippi, ifile);
    } else {
       fprintf(stderr, "usage: .exe w h d ppi input_file\n e.g. .exe 300 400 8 500 fingerimage.raw\n output: stdout of minutiae count\n");
       exit(-1);
